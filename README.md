@@ -2,6 +2,8 @@
 
 Native **iTerm2** integration for the [Pi Coding Agent](https://github.com/earendil-works/pi-coding-agent).
 
+🌐 **Landing Page:** [https://pi-iterm2.quick.prokopov.me/](https://pi-iterm2.quick.prokopov.me/)
+
 Adds dynamic tab status indicators, dock/tab progress bars, and desktop notifications to Pi sessions running in iTerm2, matching the iTerm2 / Claude Code status conventions.
 
 ![iTerm2 tab status indicator](https://raw.githubusercontent.com/mprokopov/pi-iterm2/main/docs/tab-status.png)
