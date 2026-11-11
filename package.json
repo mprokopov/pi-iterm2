@@ -1,0 +1,28 @@
+{
+  "name": "pi-iterm2",
+  "version": "1.0.0",
+  "description": "iTerm2 integration for Pi coding agent (tab status badges, progress bar, and notifications)",
+  "keywords": [
+    "pi-package",
+    "iterm2",
+    "iterm",
+    "status",
+    "terminal",
+    "notifications",
+    "tab-status"
+  ],
+  "author": "Maksym Prokopov <maksym.prokopov@billie.io>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mprokopov/pi-iterm2.git"
+  },
+  "peerDependencies": {
+    "@earendil-works/pi-coding-agent": "*"
+  },
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  }
+}
